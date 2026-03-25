@@ -9,8 +9,7 @@ github: "https://github.com/..."
 theme:
   logo: "lucide:shrub"
   primaryColor: "#7c3aed"
-  # 引用本地 content 里的图片
-  bgImage: "/content/assets/orgs/tano-bg.jpg" 
+  bgImage: "/orgs/test.jpg"
   sidebarOpacity: 0.8
   mainOpacity: 0.4
 ---

@@ -4,8 +4,10 @@
 ## 📂 目录结构
 ```Plaintext
 .
-├── blog/           # 文章 (.md)
+├── blog/           # 活动文章 (.md)
 ├── timeline/       # 时间轴数据 (.md)
+├── orgs/           # 组织介绍 (.md)
+├── projects/       # 项目文章 (.md)
 └── assets/         # 存放文章中引用的图片、附件
 ```
 ## 🚀 内容规范
@@ -34,6 +36,46 @@ description: "事件的具体描述"
 
 这里开始编写正文内容...
 ```
+
+### 3. 组织介绍 (orgs)
+
+存放在 orgs/ 目录下。用于展示组织简介：
+```text
+---
+title: "Tano 跨世界同好会"
+description: "致力于研究跨维度交互技术与幻想乡生态保护的非营利性技术组织。"
+founded: "2024-01-01"
+leader: "Tano"
+members_count: 12
+website: "https://example.com"
+github: "https://github.com/..."
+theme:
+  logo: "lucide:shrub"
+  primaryColor: "#7c3aed"
+  bgImage: "/orgs/test.jpg"
+  sidebarOpacity: 0.8
+  mainOpacity: 0.4
+---
+
+这里开始编写正文内容...
+```
+
+### 4. 项目文章 (projects)
+
+存放在 projects/ 目录下。用于展示各个组织当前项目：
+```text
+---
+title: "跨世界同好会官网重构"
+description: "使用 Nuxt 4 和 Cloudflare D1 进行全站底层重构，提升访问速度与交互体验。"
+status: "ongoing"
+date: "2026-03-25"
+icon: "lucide:layers"
+link: "https://github.com/..."
+---
+
+这里开始编写正文内容...
+```
+
 ## 🛠 维护与同步
 本仓库与主站采用 Decoupled (解耦) 模式运行：
 
