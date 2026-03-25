@@ -13,7 +13,6 @@
 
 存放在 blog/ 目录下。每篇 Markdown 文件必须包含以下 Frontmatter 字段：
 ```text
-Markdown
 ---
 title: "文章标题"
 date: "2026-03-24"
@@ -27,7 +26,6 @@ description: "简短的文章摘要"
 
 存放在 timeline/ 目录下。用于展示同好会的发展历程：
 ```text
-Markdown
 ---
 title: "里程碑事件名称"
 date: "2026-01-01"
