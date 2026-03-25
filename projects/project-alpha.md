@@ -1,0 +1,9 @@
+---
+title: "跨世界同好会官网重构"
+description: "使用 Nuxt 4 和 Cloudflare D1 进行全站底层重构，提升访问速度与交互体验。"
+status: "ongoing" # 选项: todo, ongoing, completed
+date: "2026-03-25"
+icon: "lucide:layers"
+link: "https://github.com/..."
+---
+这里可以写一些项目的详细介绍...
