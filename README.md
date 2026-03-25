@@ -42,13 +42,15 @@ description: "事件的具体描述"
 存放在 orgs/ 目录下。用于展示组织简介：
 ```text
 ---
-title: "Tano 跨世界同好会"
+ID: "2"
+title: "Test 组织"
 description: "致力于研究跨维度交互技术与幻想乡生态保护的非营利性技术组织。"
 founded: "2024-01-01"
 leader: "Tano"
 members_count: 12
 website: "https://example.com"
 github: "https://github.com/..."
+status: "Verified"
 theme:
   logo: "lucide:shrub"
   primaryColor: "#7c3aed"
@@ -59,7 +61,20 @@ theme:
 
 这里开始编写正文内容...
 ```
+#### 字段详细说明
 
+|      字段       |   类型   | 必填 | 说明                                                                                                                                                                                                   |        示例         |
+|:-------------:|:------:|:--:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------:|
+|      ID       | String | 是  | 组织的唯一标识符，建议使用英文或数字。                                                                                                                                                                                  |        "2"        |
+|     title     | String | 是  | 组织显示的正式名称。                                                                                                                                                                                           |     "Test 组织"     |
+|  description  | String | 是  | 显示在标题下方的斜体描述。                                                                                                                                                                                        | "致力于研究...的非营利组织。" |
+|    founded    | String | 是  | 成立日期，建议格式 YYYY-MM-DD。	"2024-01-01"                                                                                                                                                                   |
+|    leader     | String | 是  | 现任负责人或创始人名称。	"Tano"                                                                                                                                                                                  |
+| members_count | Number | 否  | 核心成员数量。                                                                                                                                                                                              |        12         |
+|    website    |  URL   | 否  | 组织的官方网站或主页地址。                                                                                                                                                                                        |    https://...    |
+|    github     |  URL   | 否  | 组织的 GitHub 仓库地址。                                                                                                                                                                                     |    https://...    |
+|    status     | String | 否  | 验证状态，如 Verified 或 Active。                                                                                                                                                                            |
+|     theme     | Object | 否  | 组织的主题配置对象，包含以下子字段：<br> - logo: 图标名称（如 lucide:shrub）<br> - primaryColor: 主题主色（如 #7c3aed）<br> - bgImage: 背景图片路径（如 /orgs/test.jpg）<br> - sidebarOpacity: 侧边栏背景透明度（0-1）<br> - mainOpacity: 主内容背景透明度（0-1） |     see above     |
 ### 4. 项目文章 (projects)
 
 存放在 projects/ 目录下。用于展示各个组织当前项目：

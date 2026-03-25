@@ -9,7 +9,7 @@ website: "https://example.com"
 github: "https://github.com/..."
 status: "Verified"
 theme:
-  logo: "lucide:shrub"
+  logo: "line-md:bell-alert"
   primaryColor: "#7c3aed"
   bgImage: "/orgs/test.jpg"
   sidebarOpacity: 0.8
