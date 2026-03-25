@@ -1,0 +1,14 @@
+name: Trigger Website Rebuild
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  notify-cloudflare:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send POST Request to Cloudflare Hook
+        run: |
+          curl -X POST "${{ secrets.CLOUDFLARE_DEPLOY_HOOK }}"
