@@ -3,6 +3,7 @@ title: "存档系统 2.1 补丁更新"
 date: "2026-03-26"
 description: "优化了 Markdown 导入逻辑与全局主题同步。"
 type: "Update"
+author: Tano
 ---
 
 ## 更新内容
