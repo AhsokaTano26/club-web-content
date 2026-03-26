@@ -1,9 +1,9 @@
 ---
-orgs_id: "2"
+orgs_id: "20039"
 title: "Test 组织"
 description: "致力于研究跨维度交互技术与幻想乡生态保护的非营利性技术组织。"
 founded: "2024-01-01"
-joined_at: "2025-01-01"
+joined_at: "2025-04-01"
 leader: "Tano"
 members_count: 15
 website: "https://example.com"
