@@ -4,15 +4,15 @@ title: "Test 组织"
 description: "致力于研究跨维度交互技术与幻想乡生态保护的非营利性技术组织。"
 founded: "2024-01-01"
 joined_at: "2025-01-01"
-leader: "Tano"
+leader: "Tano 0"
 members_count: 15
 website: "https://example.com"
 github: "https://github.com/..."
 status: "Verified"
 theme:
-  logo: "/orgs/aimi.jpg"
+  logo: "/orgs/53B8A8EBCAE41B7769B7C7A60E8AE768.gif"
   primaryColor: "#7c3aed"
-  bgImage: "/orgs/test.jpg"
+  bgImage: "/orgs/53B8A8EBCAE41B7769B7C7A60E8AE768.gif"
   sidebarOpacity: 0.8
   mainOpacity: 0.4
 ---

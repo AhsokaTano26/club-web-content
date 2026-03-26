@@ -13,14 +13,8 @@ theme:
   logo: "lucide:shrub"
   primaryColor: "#7c3aed"
   bgImage: "/orgs/test.jpg"
-  sidebarOpacity: 0.8
-  mainOpacity: 0.4
----
-
----
-title: Nuxt Content 全功能测试
-description: 测试图片、组件、代码和标准语法
-layout: default
+  sidebarOpacity: 0
+  mainOpacity: 0
 ---
 
 # 1. 标准语法测试
