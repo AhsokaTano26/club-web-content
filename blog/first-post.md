@@ -3,6 +3,7 @@ title: 同好会官网测试运行
 date: 2026-03-24
 description: 今天我们成功部署了日历和时间轴组件，标志着官网功能模块化迈出了重要一步。
 tags: ['开发日志', 'Nuxt']
+author: Tano
 type: anniversary
 ---
 

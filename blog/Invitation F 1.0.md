@@ -2,6 +2,7 @@
 title: "▲跨世界同好会▼『联协邀请F』文档"
 date: "2026-03-24"
 type: "official"
+author: star
 description: ""
 ---
 

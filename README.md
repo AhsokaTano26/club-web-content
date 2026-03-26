@@ -7,8 +7,7 @@
 ├── blog/           # 活动文章 (.md)
 ├── timeline/       # 时间轴数据 (.md)
 ├── orgs/           # 组织介绍 (.md)
-├── projects/       # 项目文章 (.md)
-└── assets/         # 存放文章中引用的图片、附件
+└── projects/       # 项目文章 (.md)
 ```
 ## 🚀 内容规范
 ### 1. 博客文章 (Blog)
@@ -101,7 +100,6 @@ link: "https://github.com/..."
 本地预览：在主项目 club-web 中运行 npm run dev，Nuxt 会自动拉取此仓库的最新内容。
 
 ## ⚠️ 注意事项
-图片资源：请尽量将图片放在 assets/ 文件夹下，并使用相对路径引用。
 
 格式检查：确保 YAML Frontmatter 格式正确（注意冒号后的空格），否则主站可能会解析失败。
 
