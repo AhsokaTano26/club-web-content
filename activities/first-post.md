@@ -1,10 +1,10 @@
 ---
 title: 同好会官网联协映像测试运行
-date: 2026-03-24
-description: 今天我们成功部署了日历和时间轴组件，标志着官网功能模块化迈出了重要一步。
-tags: ['开发日志', 'Nuxt']
+date: 2026-04-20
+tags: ['Online', 'Global']
+org: Tano
 author: Tano
-type: anniversary
+type: Official
 ---
 
 # 同好会官网测试运行：组件部署完毕

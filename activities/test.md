@@ -1,9 +1,10 @@
 ---
 title: 排版系统压力测试
-date: 2026-04-01
-description: 测试标题层级、段落间距与长文本表现
-tags: ['Typography']
+date: 2026-04-20
+tags: ['Online', 'Global']
+org: Tano
 author: Tano
+type: Official
 ---
 
 # H1 一级标题（主标题）

@@ -1,5 +1,5 @@
 ---
-orgs_id: "1"
+orgs_id: tano
 title: "Tano 跨世界同好会"
 description: "致力于研究跨维度交互技术与幻想乡生态保护的非营利性技术组织。"
 founded: "2024-01-01"
@@ -9,6 +9,9 @@ members_count: 12
 website: "https://example.com"
 github: "https://github.com/..."
 status: "Verified"
+Location: Global
+type: DKK
+tag: Official
 theme:
   logo: "lucide:shrub"
   primaryColor: "#7c3aed"
