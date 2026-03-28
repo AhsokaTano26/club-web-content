@@ -13,12 +13,17 @@ location: "Regional"
 type: "DKK"
 tag: "Branch"
 theme:
-  logo: "/orgs/aimi.jpg"
+  logo: "https://img.tano.asia/i/596e5fe8-ba31-426d-a252-3fab758ac886.jpg"
   primaryColor: "#ef4444"
-  bgImage: "/orgs/test.jpg"
+  bgImage: "https://img.tano.asia/i/f28c0f86-67bd-41e1-981b-cfee6a6c353b.jpg"
 ---
 
 ### 地区活跃度
 该组织在秋叶原地区拥有较高的社群影响力，每周六下午在固定咖啡馆进行技术分享。
 
 > 备注：该分支机构目前正在申请联协体系的二级认证。
+> 
+### 近期活动
+
+![aaa](https://img.tano.asia/i/596e5fe8-ba31-426d-a252-3fab758ac886.jpg)
+![bbb](https://img.tano.asia/i/f28c0f86-67bd-41e1-981b-cfee6a6c353b.jpg)

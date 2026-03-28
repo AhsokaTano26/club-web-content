@@ -3,7 +3,7 @@ name: Trigger Website Rebuild
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   notify-cloudflare:
