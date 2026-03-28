@@ -9,7 +9,7 @@ members_count: 12
 website: "https://example.com"
 github: "https://github.com/..."
 status: "Verified"
-Location: Global
+location: Global
 type: DKK
 tag: Official
 theme:
