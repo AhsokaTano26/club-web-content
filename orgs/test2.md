@@ -15,7 +15,7 @@ tag: "Branch"
 theme:
   logo: "https://img.tano.asia/i/596e5fe8-ba31-426d-a252-3fab758ac886.jpg"
   primaryColor: "#ef4444"
-  bgImage: "https://img.tano.asia/i/f28c0f86-67bd-41e1-981b-cfee6a6c353b.jpg"
+  bgImage: "https://img.tano.asia/i/8d8487bc-69fc-4a7b-bfa2-0e49c91a3f12.jpg"
 ---
 
 ### 地区活跃度
