@@ -1,12 +1,42 @@
 ---
-title: 同好会官网测试运行
-date: 2026-04-01
-description: 今天我们成功部署了日历和时间轴组件。
-tags: ['开发日志', 'Nuxt']
+title: 内容驱动架构的设计研究
+date: 2026-05-05
+description: 对现代前端内容系统的分析与实践总结
 author: Tano
-type: anniversary
+type: rese
 ---
 
-# 这是文章标题
+# 🔬 内容驱动架构研究
 
-这里是正文内容。你可以直接写 **Markdown**，Nuxt Content 会自动解析。
+本文分析当前主流内容系统架构。
+
+---
+
+## 📊 背景
+
+传统 CMS 存在以下问题：
+
+- 灵活性不足
+- 前后端耦合
+- 扩展困难
+
+---
+
+## 🧠 解决方案
+
+内容驱动（Content-driven）架构：
+
+- Markdown 即数据源
+- Git 版本管理
+- 前端渲染
+
+---
+
+## 💻 示例模型
+
+```ts
+interface Blog {
+  title: string
+  date: string
+  type: 'docu' | 'artic' | 'rese'
+}

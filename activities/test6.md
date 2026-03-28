@@ -1,26 +1,21 @@
 ---
-title: 代码高亮测试
-date: 2026-04-04
-description: 多语言代码块与行内代码
-tags: ['Code']
+title: 活动影像记录
+description: 本次活动的图片合集
+date: 2026-06-25
+status: in_person
+org: tano
 author: Tano
+type: Nexus
 ---
 
-# 行内代码
+# 📸 活动记录
 
-这是一个 `const x = 1` 的示例。
+## 图片集
+
+![1](/orgs/test.jpg){.rounded-xl .shadow-xl}
+![2](/orgs/test.jpg){.rounded-xl .shadow-xl}
+![3](/orgs/test.jpg){.rounded-xl .shadow-xl}
 
 ---
 
-# TypeScript
-
-```ts
-interface User {
-  name: string
-  age: number
-}
-
-const user: User = {
-  name: 'Tano',
-  age: 20
-}
+> 每一张照片，都是一次回忆。
