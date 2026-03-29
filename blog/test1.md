@@ -1,6 +1,6 @@
 ---
 title: Nuxt Content 使用指南
-date: 2026-05-01
+date: 2026-04-02
 description: 从零开始构建内容驱动网站的完整流程
 author: Tano
 type: docu
