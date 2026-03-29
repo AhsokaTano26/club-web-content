@@ -3,7 +3,7 @@ title: "全系统压力测试与安全审计"
 date: 2026-04-05
 description: "在模拟高压环境下测试系统稳定性，并进行等保三级预演。"
 author: "安全专家 - 陈工"
-status: "pending"
+status: "record"
 ---
 
 # 预定测试大纲

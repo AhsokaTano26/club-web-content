@@ -3,7 +3,7 @@ title: "AI 智能客服系统项目正式启动"
 date: 2026-03-01
 description: "确定项目核心架构，完成初步需求调研与资源分配。"
 author: "项目负责人 - 老周"
-status: "completed"
+status: "prog"
 ---
 
 ## 阶段成果
