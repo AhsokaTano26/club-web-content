@@ -12,7 +12,7 @@ type: "tweet"
 > 我们的征途是星辰大海。
 > 观看完整版宣传片：[点击跳转 Bilibili](https://www.bilibili.com)
 > 
-> ![视频封面图](2043253.jpg)
+> ![视频封面图](https://img.tano.asia/i/8d8487bc-69fc-4a7b-bfa2-0e49c91a3f12.jpg)
 > 
 > #Nebula2026 #Promotion #Community
 

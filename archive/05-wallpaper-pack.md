@@ -11,11 +11,11 @@ type: "Gallery"
 
 #### 1. 极简深色版
 采用 `#1e1b4b` 作为背景基调，适合程序员开发环境。
-![Deep Dark Mode](2043253.jpg)
+![Deep Dark Mode](https://img.tano.asia/i/8d8487bc-69fc-4a7b-bfa2-0e49c91a3f12.jpg)
 
 #### 2. 联协绿动版
 展示了 `shrub` 图标与自然色彩的融合。
-![Green Energy](orgs/test.jpg)
+![Green Energy](https://img.tano.asia/i/f28c0f86-67bd-41e1-981b-cfee6a6c353b.jpg)
 
 ---
 
